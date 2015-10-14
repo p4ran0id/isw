@@ -4,7 +4,7 @@ public class MyFirstMovieManager
 	private Performer performer;
 
 	// constructor
-	public MyFirstMovieManager ()
+	public MyFirstMovieManager()
 	{
 	}
 
